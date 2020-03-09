@@ -32,3 +32,9 @@ class OpenSourceRepo:
         obj = IPWhois(self)
         res=obj.lookup_whois()
         print (res)
+
+
+
+
+
+
